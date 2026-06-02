@@ -23,3 +23,4 @@ Visualizations:
 - Top Airlines by Cancellation Rate
 - Average Departure Delay
 - Cancellation Reason Donut Chart
+<img width="1010" height="816" alt="image" src="https://github.com/user-attachments/assets/d1661ab0-7560-436d-8d85-18663f462f5c" />

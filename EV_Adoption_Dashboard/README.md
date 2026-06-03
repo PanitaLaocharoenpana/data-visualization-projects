@@ -7,7 +7,6 @@ Developed an interactive Tableau dashboard to analyze electric vehicle adoption 
 The dashboard provides insights into vehicle registration patterns, geographic distribution, market leaders, consumer preferences, and adoption growth trends.
 
 ## Business Questions
-
 - Which regions have the highest EV adoption?
 - Which manufacturers dominate the EV market?
 - What vehicle types are most popular?
@@ -15,7 +14,6 @@ The dashboard provides insights into vehicle registration patterns, geographic d
 - What demographic and geographic patterns exist?
 
 ## Tools Used
-
 - Tableau
 - Excel
 - Data Visualization
@@ -56,3 +54,4 @@ Tracks EV growth from 2008–2026 and highlights major adoption periods.
 - Business Intelligence
 - Trend Analysis
 - Geographic Analysis
+<img width="1220" height="976" alt="image" src="https://github.com/user-attachments/assets/b5db2271-5c41-4be8-8b2f-acf6738cbb5e" />

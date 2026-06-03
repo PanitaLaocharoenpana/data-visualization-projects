@@ -19,27 +19,7 @@ The dashboard provides insights into vehicle registration patterns, geographic d
 - Data Visualization
 - Business Analytics
 
-## Dashboard Features
-
-### Regional Distribution Map
-
-Visualizes EV concentration across Connecticut and identifies high-adoption areas.
-
-### Vehicle Popularity Analysis
-
-Interactive ranking of:
-
-- Manufacturers
-- Models
-- Vehicle Types
-- Cities
-
-### Adoption Trend Analysis
-
-Tracks EV growth from 2008–2026 and highlights major adoption periods.
-
 ## Key Findings
-
 - Tesla is the leading EV manufacturer.
 - Model Y is the most popular EV model.
 - Battery Electric Vehicles (BEVs) dominate registrations.
@@ -47,7 +27,6 @@ Tracks EV growth from 2008–2026 and highlights major adoption periods.
 - EV adoption accelerated significantly after 2021.
 
 ## Skills Demonstrated
-
 - Dashboard Design
 - Data Storytelling
 - Interactive Visualizations
